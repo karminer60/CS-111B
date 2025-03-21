@@ -3,7 +3,7 @@ package Projects;
 import java.util.Scanner;
 import java.util.Random;
 
-class Main {
+class Blackjack {
     public static void main(String[] args) {
 	    /* Pseudocode:
 
