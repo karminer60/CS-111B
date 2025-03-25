@@ -47,11 +47,11 @@ public class NumberGuesser {
             char result = getUserResponseToGuess(guess);
 
             if(result == 'l'){
-                low = guess;
+                high = guess;
 
 
             }else if(result == 'h'){
-                high = guess;
+                low = guess;
 
 
             }else{
